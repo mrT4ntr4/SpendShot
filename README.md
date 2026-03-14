@@ -41,23 +41,27 @@ SpendShot is a privacy-focused offline expense tracking app for Android. It uses
 
 SpendShot currently supports extracting transaction data from the following apps:
 
-<div style="display: flex; gap: 20px;">
-  <div align="center" style="display: inline-block; margin-right: 20px;">
-    <img src="git_assets/supported_icons/gpay.svg" width="48" height="48" alt="Google Pay"><br>
-    Google Pay
-  </div>
-  <div align="center" style="display: inline-block; margin-right: 20px;">
-    <img src="git_assets/supported_icons/phonepe.svg" width="48" height="48" alt="PhonePe"><br>
-    PhonePe
-  </div>
-  <div align="center" style="display: inline-block; margin-right: 20px;">
-    <img src="git_assets/supported_icons/swiggy.svg" width="48" height="48" alt="Swiggy"><br>
-    Swiggy
-  </div>
-  <div align="center" style="display: inline-block;">
-    <img src="git_assets/supported_icons/zomato.svg" width="48" height="48" alt="Zomato"><br>
-    Zomato
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img src="git_assets/supported_icons/gpay.svg" width="48" height="48" alt="Google Pay"><br>
+        Google Pay
+      </td>
+      <td align="center" style="border: none;">
+        <img src="git_assets/supported_icons/phonepe.svg" width="48" height="48" alt="PhonePe"><br>
+        PhonePe
+      </td>
+      <td align="center" style="border: none;">
+        <img src="git_assets/supported_icons/swiggy.svg" width="48" height="48" alt="Swiggy"><br>
+        Swiggy
+      </td>
+      <td align="center" style="border: none;">
+        <img src="git_assets/supported_icons/zomato.svg" width="48" height="48" alt="Zomato"><br>
+        Zomato
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## App Screenshots
