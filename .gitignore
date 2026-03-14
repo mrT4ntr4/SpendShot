@@ -1,0 +1,22 @@
+*.iml
+.gradle/
+local.properties
+
+# Signing keys
+*.jks
+*.keystore
+/.idea/
+.DS_Store
+/captures
+.externalNativeBuild
+.cxx
+
+# Ignore 'build' folders anywhere (root and inside app/ module)
+build/
+
+# Kotlin specifics
+.kotlin/
+
+# Release builds
+app/release/
+/app/.vscode/settings.json
