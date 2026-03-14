@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="git_assets/app-icon.png" width="80" height="80" style="border-radius: 20%; margin-bottom: 16px;">
+  <img src="git_assets/app-icon.png" width="80" height="80" style="margin-bottom: 16px;">
   <h1 style="border-bottom: none; margin-bottom: 0;">SpendShot</h1>
 
   <h3 align="center" style="margin-top: 0;">
@@ -28,14 +28,14 @@ SpendShot is a privacy-focused offline expense tracking app for Android. It uses
 
 ## Features
 
-- Screenshot-based Logging: Share a payment screenshot to the app and it automatically extracts the amount, merchant, and category using on-device ML (YOLO + TFLite).
-- Smart Categorization: Auto-categorizes transactions based on merchant history and keyword matching.
-- Budget Tracking: Set monthly budgets per category and track your spending against them.
-- Goals: Set savings goals and track your progress over time.
-- Reports: View category-wise breakdowns and spending trends.
-- Biometric Lock: Secure the app using your device's fingerprint, face unlock, or PIN.
-- Open Source: Fully free and open-source, with no premium limits or paywalls.
-- Auto-Updates: The app checks for and downloads new releases directly from GitHub.
+- **Screenshot-based Logging**: Share a payment screenshot to the app and it automatically extracts the amount, merchant, and category using on-device ML (YOLO + TFLite).
+- **Smart Categorization**: Auto-categorizes transactions based on merchant history and keyword matching.
+- **Budget Tracking**: Set monthly budgets per category and track your spending against them.
+- **Goals**: Set savings goals and track your progress over time.
+- **Reports**: View category-wise breakdowns and spending trends.
+- **Biometric Lock**: Secure the app using your device's fingerprint, face unlock, or PIN.
+- **Open Source**: Fully free and open-source, with no premium limits or paywalls.
+- **Auto-Updates**: The app checks for and downloads new releases directly from GitHub.
 
 ## Supported Apps
 
