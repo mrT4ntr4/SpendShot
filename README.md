@@ -9,8 +9,6 @@
   <p align="center">
     <a href="https://github.com/mrT4ntr4/SpendShot/releases"><img src="https://img.shields.io/github/downloads/mrT4ntr4/SpendShot/total?style=for-the-badge&color=2ea44f&logo=github" alt="Downloads"></a>
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-    <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
     <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black" alt="YOLO">
     <a href="https://github.com/mrT4ntr4/SpendShot/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mrT4ntr4/SpendShot?style=for-the-badge&color=blue" alt="License"></a>
